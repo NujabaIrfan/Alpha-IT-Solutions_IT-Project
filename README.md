@@ -147,13 +147,6 @@ Alpha-IT-Solutions/
 * 📊 [System Architecture Report](#)
 * 🧠 [AI Module Overview](#)
 
----
-
-## 📬 Contact
-
-> Developed by 2nd Year Software Engineering Undergraduates at **SLIIT**
-> 📧 **Chiranjewa Peellawatta** – [chiranjeewalankeshwara@gmail.com](mailto:chiranjeewalankeshwara@gmail.com)
-> 🌐 Portfolio – [https://tinyurl.com/44vxcmfa](https://tinyurl.com/44vxcmfa)
 
 ---
 
